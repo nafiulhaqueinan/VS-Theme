@@ -1,0 +1,21 @@
+{
+  "name": "angry-dark",
+  "displayName": "AngryDark",
+  "description": "lazy-wizard theme angry-dark!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "angry-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/angry-dark-color-theme.json"
+      }
+    ]
+  }
+}
